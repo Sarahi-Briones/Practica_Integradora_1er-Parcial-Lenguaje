@@ -247,7 +247,7 @@ from fuzzywuzzy import fuzz
 #     columna_ner_atraccion.append(contador_ner_atraccion)
 
 
-# # #--------------------------Nuevas covariables de hotel--------------------------------
+# #--------------------------Nuevas covariables de hotel--------------------------------
 # nuevo_df = df
 
 # nuevo_df['Adjetivos_Hotel'] = columna_adjetivos_hotel
